@@ -66,7 +66,7 @@ A solução se apoia em três camadas técnicas:
 
 ## 📎 Links
 
-- [Vídeo Pitch (YouTube)]()
+- [Vídeo Pitch (YouTube)] : ()
 
 ---
 
