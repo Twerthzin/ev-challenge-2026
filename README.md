@@ -53,7 +53,7 @@ A solução se apoia em três camadas técnicas:
 
 ---
 
-## 🔧 Tecnologias Utilizadas
+## Tecnologias Utilizadas
 
 - GoodWe (inversor solar + API)
 - FIAP EV Charger
@@ -70,11 +70,11 @@ A solução se apoia em três camadas técnicas:
 
 ---
 
-## 📅 Sprint 1 – Entrega
+## Sprint 1 – Entrega
 
-✅ Vídeo pitch gravado  
-✅ README documentado  
-✅ Arquivo .txt entregue no sistema FIAP
+Vídeo pitch gravado  
+README documentado  
+Arquivo .txt entregue no sistema FIAP
 
 
 
