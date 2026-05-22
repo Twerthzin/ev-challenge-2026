@@ -64,7 +64,7 @@ A solução se apoia em três camadas técnicas:
 
 ---
 
-## 📎 Links
+## Links
 
 - [Vídeo Pitch (YouTube)] : ()
 
